@@ -426,7 +426,6 @@ function generate_house_array(obj) {
     // Transit
     var grahas_transit = ['', '', '', '', '', '', '', '', '', '', '', ''];
     var rashi_transit = obj['transit'];
-    console.log(rashi_transit);
     var as_transit = [];
 
     var bava_transit = {};
