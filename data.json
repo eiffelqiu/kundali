@@ -1,0 +1,900 @@
+{
+    "transit": {
+        "Mesha": [
+            "Rahu"
+        ],
+        "Mithuna": [
+            "Sun"
+        ],
+        "Kataka": [
+            "Venus",
+            "Mercury"
+        ],
+        "Simha": [
+            "Ascendant"
+        ],
+        "Kanya": [
+            "Moon"
+        ],
+        "Thula": [
+            "Ketu"
+        ],
+        "Vrichika": [
+            "Saturn"
+        ],
+        "Dhanus": [
+            "Mars",
+            "Jupiter"
+        ]
+    },
+    "rasi": {
+        "Mesha": [
+            "Rahu"
+        ],
+        "Mithuna": [
+            "Sun",
+            "Mercury"
+        ],
+        "Kataka": [
+            "Venus"
+        ],
+        "Simha": [
+            "Ascendant"
+        ],
+        "Kanya": [
+            "Moon"
+        ],
+        "Thula": [
+            "Ketu"
+        ],
+        "Vrichika": [
+            "Saturn"
+        ],
+        "Dhanus": [
+            "Mars"
+        ],
+        "Kumbha": [
+            "Jupiter"
+        ]
+    },
+    "planets": [
+        {
+            "rasi": "Gem",
+            "character": false,
+            "pos": 1.1090746283594513,
+            "name": "Su"
+        },
+        {
+            "rasi": "Vir",
+            "character": true,
+            "pos": 9.954613360860975,
+            "name": "Mo"
+        },
+        {
+            "rasi": "Sag",
+            "character": false,
+            "pos": 29.118645640122963,
+            "name": "Ma"
+        },
+        {
+            "rasi": "Gem",
+            "character": true,
+            "pos": 24.051398900340644,
+            "name": "Me"
+        },
+        {
+            "rasi": "Aqu",
+            "character": true,
+            "pos": 28.076283797392534,
+            "name": "Ju"
+        },
+        {
+            "rasi": "Can",
+            "character": true,
+            "pos": 6.835510311368282,
+            "name": "Ve"
+        },
+        {
+            "rasi": "Sco",
+            "character": false,
+            "pos": 11.362867445626648,
+            "name": "Sa"
+        },
+        {
+            "rasi": "Ari",
+            "character": false,
+            "pos": 4.626384247451895,
+            "name": "Ra"
+        },
+        {
+            "rasi": "Lib",
+            "character": false,
+            "pos": 4.626384247451881,
+            "name": "Ke"
+        },
+        {
+            "rasi": "Leo",
+            "character": null,
+            "pos": 9.746382830797302,
+            "name": "Asc"
+        }
+    ],
+    "dasa": {
+        "Mars": {
+            "dasa": "Mars",
+            "endDate": "24-06-2003",
+            "start": 1996.4779582341878,
+            "end": 2003.4779582341878,
+            "startDate": "23-06-1996",
+            "subDasas": [
+                {
+                    "dasa": "Mars",
+                    "endDate": "20-11-1996",
+                    "start": 1996.4779582341878,
+                    "end": 1996.886291567521,
+                    "startDate": "23-06-1996",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Rahu",
+                    "endDate": "08-12-1997",
+                    "start": 1996.886291567521,
+                    "end": 1997.936291567521,
+                    "startDate": "20-11-1996",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Jupiter",
+                    "endDate": "14-11-1998",
+                    "start": 1997.936291567521,
+                    "end": 1998.8696249008544,
+                    "startDate": "08-12-1997",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Saturn",
+                    "endDate": "23-12-1999",
+                    "start": 1998.8696249008544,
+                    "end": 1999.9779582341878,
+                    "startDate": "14-11-1998",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mercury",
+                    "endDate": "20-12-2000",
+                    "start": 1999.9779582341878,
+                    "end": 2000.9696249008543,
+                    "startDate": "23-12-1999",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Ketu",
+                    "endDate": "18-05-2001",
+                    "start": 2000.9696249008543,
+                    "end": 2001.3779582341876,
+                    "startDate": "20-12-2000",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Venus",
+                    "endDate": "18-07-2002",
+                    "start": 2001.3779582341876,
+                    "end": 2002.5446249008544,
+                    "startDate": "18-05-2001",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Sun",
+                    "endDate": "23-11-2002",
+                    "start": 2002.5446249008544,
+                    "end": 2002.8946249008543,
+                    "startDate": "18-07-2002",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Moon",
+                    "endDate": "24-06-2003",
+                    "start": 2002.8946249008543,
+                    "end": 2003.4779582341876,
+                    "startDate": "23-11-2002",
+                    "subDasas": []
+                }
+            ]
+        },
+        "Jupiter": {
+            "dasa": "Jupiter",
+            "endDate": "24-06-2037",
+            "start": 2021.4779582341878,
+            "end": 2037.4779582341878,
+            "startDate": "24-06-2021",
+            "subDasas": [
+                {
+                    "dasa": "Jupiter",
+                    "endDate": "12-08-2023",
+                    "start": 2021.4779582341878,
+                    "end": 2023.6112915675212,
+                    "startDate": "24-06-2021",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Saturn",
+                    "endDate": "22-02-2026",
+                    "start": 2023.6112915675212,
+                    "end": 2026.1446249008545,
+                    "startDate": "12-08-2023",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mercury",
+                    "endDate": "30-05-2028",
+                    "start": 2026.1446249008545,
+                    "end": 2028.4112915675212,
+                    "startDate": "22-02-2026",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Ketu",
+                    "endDate": "06-05-2029",
+                    "start": 2028.4112915675212,
+                    "end": 2029.3446249008546,
+                    "startDate": "30-05-2028",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Venus",
+                    "endDate": "05-01-2032",
+                    "start": 2029.3446249008546,
+                    "end": 2032.0112915675213,
+                    "startDate": "06-05-2029",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Sun",
+                    "endDate": "23-10-2032",
+                    "start": 2032.0112915675213,
+                    "end": 2032.8112915675213,
+                    "startDate": "05-01-2032",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Moon",
+                    "endDate": "22-02-2034",
+                    "start": 2032.8112915675213,
+                    "end": 2034.1446249008545,
+                    "startDate": "23-10-2032",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mars",
+                    "endDate": "29-01-2035",
+                    "start": 2034.1446249008545,
+                    "end": 2035.077958234188,
+                    "startDate": "22-02-2034",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Rahu",
+                    "endDate": "24-06-2037",
+                    "start": 2035.077958234188,
+                    "end": 2037.477958234188,
+                    "startDate": "29-01-2035",
+                    "subDasas": []
+                }
+            ]
+        },
+        "Saturn": {
+            "dasa": "Saturn",
+            "endDate": "23-06-2056",
+            "start": 2037.4779582341878,
+            "end": 2056.477958234188,
+            "startDate": "24-06-2037",
+            "subDasas": [
+                {
+                    "dasa": "Saturn",
+                    "endDate": "26-06-2040",
+                    "start": 2037.4779582341878,
+                    "end": 2040.4862915675212,
+                    "startDate": "24-06-2037",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mercury",
+                    "endDate": "06-03-2043",
+                    "start": 2040.4862915675212,
+                    "end": 2043.1779582341878,
+                    "startDate": "26-06-2040",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Ketu",
+                    "endDate": "14-04-2044",
+                    "start": 2043.1779582341878,
+                    "end": 2044.2862915675212,
+                    "startDate": "06-03-2043",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Venus",
+                    "endDate": "15-06-2047",
+                    "start": 2044.2862915675212,
+                    "end": 2047.452958234188,
+                    "startDate": "14-04-2044",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Sun",
+                    "endDate": "27-05-2048",
+                    "start": 2047.452958234188,
+                    "end": 2048.4029582341877,
+                    "startDate": "15-06-2047",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Moon",
+                    "endDate": "26-12-2049",
+                    "start": 2048.4029582341877,
+                    "end": 2049.986291567521,
+                    "startDate": "27-05-2048",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mars",
+                    "endDate": "04-02-2051",
+                    "start": 2049.986291567521,
+                    "end": 2051.0946249008543,
+                    "startDate": "26-12-2049",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Rahu",
+                    "endDate": "11-12-2053",
+                    "start": 2051.0946249008543,
+                    "end": 2053.9446249008543,
+                    "startDate": "04-02-2051",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Jupiter",
+                    "endDate": "23-06-2056",
+                    "start": 2053.9446249008543,
+                    "end": 2056.4779582341876,
+                    "startDate": "11-12-2053",
+                    "subDasas": []
+                }
+            ]
+        },
+        "Moon": {
+            "dasa": "Moon",
+            "endDate": "23-06-1996",
+            "start": 1986.4779582341878,
+            "end": 1996.4779582341878,
+            "startDate": "24-06-1986",
+            "subDasas": [
+                {
+                    "dasa": "Moon",
+                    "endDate": "24-04-1987",
+                    "start": 1986.4779582341878,
+                    "end": 1987.311291567521,
+                    "startDate": "24-06-1986",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mars",
+                    "endDate": "23-11-1987",
+                    "start": 1987.311291567521,
+                    "end": 1987.8946249008543,
+                    "startDate": "24-04-1987",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Rahu",
+                    "endDate": "25-05-1989",
+                    "start": 1987.8946249008543,
+                    "end": 1989.3946249008543,
+                    "startDate": "23-11-1987",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Jupiter",
+                    "endDate": "23-09-1990",
+                    "start": 1989.3946249008543,
+                    "end": 1990.7279582341876,
+                    "startDate": "25-05-1989",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Saturn",
+                    "endDate": "23-04-1992",
+                    "start": 1990.7279582341876,
+                    "end": 1992.3112915675208,
+                    "startDate": "23-09-1990",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mercury",
+                    "endDate": "23-09-1993",
+                    "start": 1992.3112915675208,
+                    "end": 1993.7279582341876,
+                    "startDate": "23-04-1992",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Ketu",
+                    "endDate": "24-04-1994",
+                    "start": 1993.7279582341876,
+                    "end": 1994.3112915675208,
+                    "startDate": "23-09-1993",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Venus",
+                    "endDate": "23-12-1995",
+                    "start": 1994.3112915675208,
+                    "end": 1995.9779582341876,
+                    "startDate": "24-04-1994",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Sun",
+                    "endDate": "23-06-1996",
+                    "start": 1995.9779582341876,
+                    "end": 1996.4779582341876,
+                    "startDate": "23-12-1995",
+                    "subDasas": []
+                }
+            ]
+        },
+        "Venus": {
+            "dasa": "Venus",
+            "endDate": "24-06-2100",
+            "start": 2080.477958234188,
+            "end": 2100.477958234188,
+            "startDate": "23-06-2080",
+            "subDasas": [
+                {
+                    "dasa": "Venus",
+                    "endDate": "24-10-2083",
+                    "start": 2080.477958234188,
+                    "end": 2083.8112915675215,
+                    "startDate": "23-06-2080",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Sun",
+                    "endDate": "23-10-2084",
+                    "start": 2083.8112915675215,
+                    "end": 2084.8112915675215,
+                    "startDate": "24-10-2083",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Moon",
+                    "endDate": "24-06-2086",
+                    "start": 2084.8112915675215,
+                    "end": 2086.477958234188,
+                    "startDate": "23-10-2084",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mars",
+                    "endDate": "24-08-2087",
+                    "start": 2086.477958234188,
+                    "end": 2087.6446249008545,
+                    "startDate": "24-06-2086",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Rahu",
+                    "endDate": "24-08-2090",
+                    "start": 2087.6446249008545,
+                    "end": 2090.6446249008545,
+                    "startDate": "24-08-2087",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Jupiter",
+                    "endDate": "24-04-2093",
+                    "start": 2090.6446249008545,
+                    "end": 2093.311291567521,
+                    "startDate": "24-08-2090",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Saturn",
+                    "endDate": "23-06-2096",
+                    "start": 2093.311291567521,
+                    "end": 2096.4779582341876,
+                    "startDate": "24-04-2093",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mercury",
+                    "endDate": "24-04-2099",
+                    "start": 2096.4779582341876,
+                    "end": 2099.311291567521,
+                    "startDate": "23-06-2096",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Ketu",
+                    "endDate": "24-06-2100",
+                    "start": 2099.311291567521,
+                    "end": 2100.4779582341876,
+                    "startDate": "24-04-2099",
+                    "subDasas": []
+                }
+            ]
+        },
+        "Ketu": {
+            "dasa": "Ketu",
+            "endDate": "23-06-2080",
+            "start": 2073.477958234188,
+            "end": 2080.477958234188,
+            "startDate": "24-06-2073",
+            "subDasas": [
+                {
+                    "dasa": "Ketu",
+                    "endDate": "20-11-2073",
+                    "start": 2073.477958234188,
+                    "end": 2073.8862915675213,
+                    "startDate": "24-06-2073",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Venus",
+                    "endDate": "20-01-2075",
+                    "start": 2073.8862915675213,
+                    "end": 2075.052958234188,
+                    "startDate": "20-11-2073",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Sun",
+                    "endDate": "28-05-2075",
+                    "start": 2075.052958234188,
+                    "end": 2075.4029582341877,
+                    "startDate": "20-01-2075",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Moon",
+                    "endDate": "26-12-2075",
+                    "start": 2075.4029582341877,
+                    "end": 2075.986291567521,
+                    "startDate": "28-05-2075",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mars",
+                    "endDate": "24-05-2076",
+                    "start": 2075.986291567521,
+                    "end": 2076.3946249008545,
+                    "startDate": "26-12-2075",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Rahu",
+                    "endDate": "12-06-2077",
+                    "start": 2076.3946249008545,
+                    "end": 2077.4446249008547,
+                    "startDate": "24-05-2076",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Jupiter",
+                    "endDate": "18-05-2078",
+                    "start": 2077.4446249008547,
+                    "end": 2078.377958234188,
+                    "startDate": "12-06-2077",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Saturn",
+                    "endDate": "27-06-2079",
+                    "start": 2078.377958234188,
+                    "end": 2079.486291567521,
+                    "startDate": "18-05-2078",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mercury",
+                    "endDate": "23-06-2080",
+                    "start": 2079.486291567521,
+                    "end": 2080.477958234188,
+                    "startDate": "27-06-2079",
+                    "subDasas": []
+                }
+            ]
+        },
+        "Rahu": {
+            "dasa": "Rahu",
+            "endDate": "24-06-2021",
+            "start": 2003.4779582341878,
+            "end": 2021.4779582341878,
+            "startDate": "24-06-2003",
+            "subDasas": [
+                {
+                    "dasa": "Rahu",
+                    "endDate": "06-03-2006",
+                    "start": 2003.4779582341878,
+                    "end": 2006.1779582341878,
+                    "startDate": "24-06-2003",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Jupiter",
+                    "endDate": "30-07-2008",
+                    "start": 2006.1779582341878,
+                    "end": 2008.577958234188,
+                    "startDate": "06-03-2006",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Saturn",
+                    "endDate": "06-06-2011",
+                    "start": 2008.577958234188,
+                    "end": 2011.4279582341878,
+                    "startDate": "30-07-2008",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mercury",
+                    "endDate": "23-12-2013",
+                    "start": 2011.4279582341878,
+                    "end": 2013.9779582341878,
+                    "startDate": "06-06-2011",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Ketu",
+                    "endDate": "11-01-2015",
+                    "start": 2013.9779582341878,
+                    "end": 2015.0279582341877,
+                    "startDate": "23-12-2013",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Venus",
+                    "endDate": "11-01-2018",
+                    "start": 2015.0279582341877,
+                    "end": 2018.0279582341877,
+                    "startDate": "11-01-2015",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Sun",
+                    "endDate": "05-12-2018",
+                    "start": 2018.0279582341877,
+                    "end": 2018.9279582341878,
+                    "startDate": "11-01-2018",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Moon",
+                    "endDate": "05-06-2020",
+                    "start": 2018.9279582341878,
+                    "end": 2020.4279582341878,
+                    "startDate": "05-12-2018",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mars",
+                    "endDate": "24-06-2021",
+                    "start": 2020.4279582341878,
+                    "end": 2021.4779582341878,
+                    "startDate": "05-06-2020",
+                    "subDasas": []
+                }
+            ]
+        },
+        "Sun": {
+            "dasa": "Sun",
+            "endDate": "24-06-1986",
+            "start": 1980.4779582341878,
+            "end": 1986.4779582341878,
+            "startDate": "23-06-1980",
+            "subDasas": [
+                {
+                    "dasa": "Sun",
+                    "endDate": "11-10-1980",
+                    "start": 1980.4779582341878,
+                    "end": 1980.7779582341877,
+                    "startDate": "23-06-1980",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Moon",
+                    "endDate": "12-04-1981",
+                    "start": 1980.7779582341877,
+                    "end": 1981.2779582341877,
+                    "startDate": "11-10-1980",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mars",
+                    "endDate": "18-08-1981",
+                    "start": 1981.2779582341877,
+                    "end": 1981.6279582341876,
+                    "startDate": "12-04-1981",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Rahu",
+                    "endDate": "12-07-1982",
+                    "start": 1981.6279582341876,
+                    "end": 1982.5279582341877,
+                    "startDate": "18-08-1981",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Jupiter",
+                    "endDate": "30-04-1983",
+                    "start": 1982.5279582341877,
+                    "end": 1983.3279582341877,
+                    "startDate": "12-07-1982",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Saturn",
+                    "endDate": "11-04-1984",
+                    "start": 1983.3279582341877,
+                    "end": 1984.2779582341877,
+                    "startDate": "30-04-1983",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mercury",
+                    "endDate": "16-02-1985",
+                    "start": 1984.2779582341877,
+                    "end": 1985.1279582341876,
+                    "startDate": "11-04-1984",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Ketu",
+                    "endDate": "24-06-1985",
+                    "start": 1985.1279582341876,
+                    "end": 1985.4779582341876,
+                    "startDate": "16-02-1985",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Venus",
+                    "endDate": "24-06-1986",
+                    "start": 1985.4779582341876,
+                    "end": 1986.4779582341876,
+                    "startDate": "24-06-1985",
+                    "subDasas": []
+                }
+            ]
+        },
+        "Mercury": {
+            "dasa": "Mercury",
+            "endDate": "24-06-2073",
+            "start": 2056.477958234188,
+            "end": 2073.477958234188,
+            "startDate": "23-06-2056",
+            "subDasas": [
+                {
+                    "dasa": "Mercury",
+                    "endDate": "20-11-2058",
+                    "start": 2056.477958234188,
+                    "end": 2058.8862915675213,
+                    "startDate": "23-06-2056",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Ketu",
+                    "endDate": "17-11-2059",
+                    "start": 2058.8862915675213,
+                    "end": 2059.877958234188,
+                    "startDate": "20-11-2058",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Venus",
+                    "endDate": "17-09-2062",
+                    "start": 2059.877958234188,
+                    "end": 2062.7112915675216,
+                    "startDate": "17-11-2059",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Sun",
+                    "endDate": "24-07-2063",
+                    "start": 2062.7112915675216,
+                    "end": 2063.5612915675215,
+                    "startDate": "17-09-2062",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Moon",
+                    "endDate": "23-12-2064",
+                    "start": 2063.5612915675215,
+                    "end": 2064.977958234188,
+                    "startDate": "24-07-2063",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Mars",
+                    "endDate": "20-12-2065",
+                    "start": 2064.977958234188,
+                    "end": 2065.969624900855,
+                    "startDate": "23-12-2064",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Rahu",
+                    "endDate": "09-07-2068",
+                    "start": 2065.969624900855,
+                    "end": 2068.519624900855,
+                    "startDate": "20-12-2065",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Jupiter",
+                    "endDate": "14-10-2070",
+                    "start": 2068.519624900855,
+                    "end": 2070.786291567522,
+                    "startDate": "09-07-2068",
+                    "subDasas": []
+                },
+                {
+                    "dasa": "Saturn",
+                    "endDate": "24-06-2073",
+                    "start": 2070.786291567522,
+                    "end": 2073.4779582341885,
+                    "startDate": "14-10-2070",
+                    "subDasas": []
+                }
+            ]
+        }
+    },
+    "navamsa": {
+        "Vrishabha": [
+            "Mercury",
+            "Rahu"
+        ],
+        "Mithuna": [
+            "Jupiter",
+            "Ascendant"
+        ],
+        "Kanya": [
+            "Venus"
+        ],
+        "Thula": [
+            "Sun",
+            "Saturn"
+        ],
+        "Vrichika": [
+            "Ketu"
+        ],
+        "Dhanus": [
+            "Mars"
+        ],
+        "Meena": [
+            "Moon"
+        ]
+    },
+    "info": {
+        "DateOfBirth": "六月 16 1986",
+        "Thithi": "Navami",
+        "Rasi": "Kanya",
+        "Sunrise/Sunset": "04:51 AM/06:25 PM",
+        "TimeOfBirth": "10:05:00 AM",
+        "Nakshathra": {
+            "nak": "Uththiram",
+            "pada": 4
+        },
+        "lon": 80.42,
+        "Dasa": "Bal of Su Dasa 0y 0m 8d ",
+        "Name": "ccc",
+        "SiderialTime": "004 : 03 : 23",
+        "Langa": "Simha",
+        "CurrentPeriod": "Ra/Ma",
+        "Yoga": "Vyatipatha",
+        "Place": "Chandia",
+        "lat": 23.39,
+        "Ayanamsa": "023 : 40 : 04"
+    }
+}
